@@ -1,8 +1,6 @@
 @article{REPO279,
     author = "Tian, Ye and Wang, Luchen and Yang, Shangshang and Ding, Jinliang and Jin, Yaochu and Zhang, Xingyi",
-    doi = "10.1109/TEVC.2024.3400398",
     journal = "IEEE Transactions on Evolutionary Computation",
-    keywords = "Optimization;Evolutionary computation;Neural networks;Dimensionality reduction;Search problems;Training;Sociology;Binary optimization;large-scale optimization;dimensionality reduction;evolutionary algorithms;neural networks",
     number = "",
     pages = "1-1",
     title = "{Neural Network-Based Dimensionality Reduction for Large-Scale Binary Optimization With Millions of Variables}",
